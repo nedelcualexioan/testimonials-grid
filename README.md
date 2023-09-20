@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://nedelcualexioan.github.io/testimonials-grid/)
+- Live Site URL: [GITHUB PAGES LINK](https://nedelcualexioan.github.io/testimonials-grid/)
 
 ### Built with
 
