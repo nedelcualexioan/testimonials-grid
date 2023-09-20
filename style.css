@@ -115,10 +115,23 @@ p
     grid-area: five;
 }
 
-@media (min-width: 375px){
+/* medium - large devices devices */
+@media only screen and (min-width: 600px){
     .testimonial-grid{
         grid-template-areas: 
         "one one two five"
         "three four four five";
+    }
+}
+
+/*small devices*/
+@media only screen and (max-width: 600px){
+    .testimonial-grid{
+        grid-template-areas: 
+        "one"
+        "two"
+        "three"
+        "four"
+        "five";
     }
 }
